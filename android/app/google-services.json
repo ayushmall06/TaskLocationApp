@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "401479051971",
+    "project_id": "authenticationdemo-19c2a",
+    "storage_bucket": "authenticationdemo-19c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401479051971:android:0e79a438f1cc69e30d1076",
+        "android_client_info": {
+          "package_name": "com.mytask.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401479051971-353cuh7rklgfuuop12mp6mijtgl5kt1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mytask.app",
+            "certificate_hash": "da6077e80e02459b9ac6ea57f36d5538b7342183"
+          }
+        },
+        {
+          "client_id": "401479051971-ugkujrh8lgrtb6ukhkn062ac03avk5f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxXqcPp7T7t1W83LHCw8A46QP1UVAaZNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401479051971-ugkujrh8lgrtb6ukhkn062ac03avk5f7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "401479051971-apt72gvqkjjqgl15adth2svko845cn1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytask.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
